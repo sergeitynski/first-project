@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.content {
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+}
+
+.content-title {
+    font-size: 35px;
+    color: bisque;
+    text-align: center;
+    padding-top: 60px;
