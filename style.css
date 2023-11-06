@@ -15,3 +15,12 @@ body {
     color: bisque;
     text-align: center;
     padding-top: 60px;
+
+}
+
+.content-subtitle {
+    font-size: 25px;
+    color: bisque;
+    text-align: center;
+    padding-top: 10px;
+}
